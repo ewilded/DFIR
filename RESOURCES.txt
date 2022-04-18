@@ -1,0 +1,35 @@
+ATTRIBUTION
+https://counterintelligence.pl/2022/02/w-labiryncie-luster-atrybucja-w-kontekscie-threat-intelligence/
+https://anchorednarratives.substack.com/p/the-trojan-did-it-defence-is-real?s=r
+
+MANUALS
+https://www.sans.org/reading-room/whitepapers/incident/paper/33901
+https://www.securitymetrics.com/blog/6-phases-incident-response-plan
+https://cert.europa.eu/static/WhitePapers/CERT-EU_SWP_17-002_Lateral_Movements.pdf
+https://en.1lib.pl/book/5457441/431052 VirusTotal for investigators
+https://www.sans.org/posters/cheat-sheet-for-analyzing-malicious-documents/ analyzing malicious document files
+
+MALWARE ANALYSIS
+https://counterintelligence.pl/2022/03/na-tropie-implantow-osintowa-analiza-malwareu/
+https://www.youtube.com/c/0xf0x			(darmowy kurs video)
+
+MEMORY FORENSICS
+https://github.com/stuxnet999/memlabs	(darmowy kurs w formie zadań w stylu CTF)
+
+THREAT HUNTING
+https://www.linkedin.com/posts/threathunting_command-control-understanding-denying-ugcPost-6639425081783259136-aVDj
+https://cyber-edge.com/resources/the-endgame-guide-to-threat-hunting/
+https://www.linkedin.com/posts/danwilliamssecurityengineer_handbook-the-elastic-guide-to-threat-hunting-ugcPost-6919254003960664064-72at?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+RED TEAM LESSONS LEARNED (artykuły z moimi doświadczeniami wyniesionymi z Red Teamingu)
+https://atos.net/en/lp/securitydive/never-feel-afraid-to-report-a-security-incident
+https://atos.net/en/lp/securitydive/do-not-neglect-security-in-development-systems
+https://atos.net/en/lp/securitydive/focus-on-information-exchange-between-devsecops
+
+INCIDENT REPORTS
+https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf
+https://www.bgp4.com/wp-content/uploads/2020/08/ARN30043-ATP_7-100.2-000-WEB-2.pdf
+https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/
+https://www.zdnet.com/article/microsoft-and-other-tech-companies-orchestrate-takedown-of-trickbot-botnet/
+https://community.riskiq.com/article/41e23799
+https://research.checkpoint.com/2022/evilplayout-attack-against-irans-state-broadcaster/
