@@ -33,3 +33,56 @@ https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/
 https://www.zdnet.com/article/microsoft-and-other-tech-companies-orchestrate-takedown-of-trickbot-botnet/
 https://community.riskiq.com/article/41e23799
 https://research.checkpoint.com/2022/evilplayout-attack-against-irans-state-broadcaster/
+
+Trends
+https://www.csoonline.com/article/3696318/insider-threats-surge-across-us-cni-as-attackers-exploit-human-factors.html
+
+IceCold intrusion via OneNote
+https://thedfirreport.com/2024/04/01/from-onenote-to-ransomnote-an-ice-cold-intrusion/
+
+O365 Microsoft Hack
+https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/
+
+Ivanti Connect Secure VPN Post-Exploitation Lateral Movement Case Studies 
+https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement
+
+Midnight Blizzard Latest Breaches
+https://cyberscoop.com/federal-government-russian-breach-microsoft/
+
+Backdoored and digitally signed executable
+https://news.sophos.com/en-us/2024/04/09/smoke-and-screen-mirrors-a-strange-signed-backdoor/
+
+Crypters as a service
+https://redcanary.com/threat-detection-report/trends/crypters/
+https://community.riskiq.com/article/e3595388
+
+Supply chain attacks
+https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html
+https://securityonline.info/python-developers-targeted-in-massive-supply-chain-attack-over-170000-users-affected/
+
+Ransomware
+https://securityaffairs.com/159584/cyber-crime/lockbit-gang-resumed-raas.html
+
+AI proliferation
+https://economictimes.indiatimes.com/industry/tech/hong-kong-mnc-suffers-25-6-million-loss-in-deepfake-scam/articleshow/107465111.cms
+https://www.bankinfosecurity.com/hackers-use-ai-hallucinations-to-spread-malware-a-24793
+
+Black SEO
+https://securityonline.info/hackers-exploit-google-ads-to-target-admins-with-fake-software-downloads/
+https://thedfirreport.com/2024/02/26/seo-poisoning-to-domain-control-the-gootloader-saga-continues/
+
+Data breach
+https://www.theregister.com/2024/03/14/mega_data_breach_at_french/
+https://www.veracode.com/blog/security-news/2021-verizon-data-breach-investigations-report-proves-cybercrime-continued
+
+Vendor backdoors
+https://www.youtube.com/watch?v=WkLvpxImRGw Facebook Onavo MITM
+https://www.fb-pro.com/windows-telemetry-information-test/ Microsoft Telemetry spying
+
+Data sources
+https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347
+https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x02-audit-settings-and-telemetry-1d0af3ebfb27
+https://systemweakness.com/windows-rdp-event-logs-part-2-bbbc35898455
+
+10 immutable laws of cybersecurity
+https://learn.microsoft.com/en-us/previous-versions/cc722488(v=technet.10)
